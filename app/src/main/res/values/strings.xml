@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pedidos Mi Tiendita</string>
+    <string name="hint_cliente">Nombre:</string>
+    <string name="hint_pedido">Pedido:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_envio">Direccion:</string>
+    <string name="btn_pedido">Realizar Pedido</string>
+</resources>
